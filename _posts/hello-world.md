@@ -2,7 +2,7 @@
 title: 'Hello World'
 excerpt: '大语言模型的推理能力从哪里来？人类的推理能力是本能还是神经网络的算法？'
 coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-03-16T05:35:07.322Z'
 author:
   name: iBitly
   picture: '/assets/blog/authors/ibitly-icon.png'

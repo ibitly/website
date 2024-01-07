@@ -2,7 +2,7 @@
 title: '快速测试大语言模型的能力'
 excerpt: '本文介绍了几个简单的方法，测试大语言模型的能力，如何区分 GPT3 和 GPT4.'
 coverImage: '/assets/blog/gdp_3_or_4/cover.jpg'
-date: '2020-03-15T05:35:07.322Z'
+date: '2023-03-15T05:35:07.322Z'
 author:
   name: Joe Haddad
   picture: '/assets/blog/authors/joe.jpeg'
